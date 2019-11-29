@@ -1,0 +1,16 @@
+{
+  "name": "vuex-modules-utils",
+  "version": "1.0.0",
+  "description": "utilities for vuex modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vuex",
+    "utils"
+  ],
+  "author": "Vilvarin[viilvariin@gmail.com]",
+  "license": "MIT"
+}
